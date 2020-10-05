@@ -12,6 +12,7 @@ Installation:  You will need to have Node installed and then run ```npm install`
 
 ### __Usage__
 Deployed App: https://cw-budget-tracker.herokuapp.com/
+
 Demonstration GIF:
 ![Demo Gif](./public/img/Budget_Tracker.gif)
 
