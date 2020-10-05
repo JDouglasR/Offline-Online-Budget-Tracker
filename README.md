@@ -11,7 +11,9 @@ The user will be able to add expenses and deposits to their budget with or witho
 Installation:  You will need to have Node installed and then run ```npm install``` to be able to run.  To run the program locally, you can either install [Nodemon](https://nodemon.io/) or just run ```node server.js```.  After this step, open your browser and navigate to ```localhost:3000```.  This should display the app.
 
 ### __Usage__
+Deployed App: https://cw-budget-tracker.herokuapp.com/
 Demonstration GIF:
+[Demo Gif](./public/img/Budget_Tracker.gif)
 
 ### __Contributing__
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
